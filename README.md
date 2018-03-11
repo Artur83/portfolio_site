@@ -1,2 +1,3 @@
 # portfolio_site
-**tekst**
+
+Project Portofolio Site for Udacity Front-End Web Developer Nanodegree
