@@ -1,3 +1,3 @@
 # portfolio_site
 
-Project Portofolio Site for Udacity Front-End Web Developer Nanodegree
+Project "Build a Portfolio Site" for Udacity Front-End Web Developer Nanodegree
